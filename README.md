@@ -1,1 +1,1 @@
- story_teller.bot
+ story_teller_bot
