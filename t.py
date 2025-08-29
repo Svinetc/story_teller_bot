@@ -45,7 +45,8 @@ contract ControlStructures {
             return "Afternoon!"; // Return "Afternoon!" if it's between 1:00 PM and 5:59 PM
         }
         else if (_time >= 1800 && _time <= 2200) {
-            return "Evening!"; // Return "Evening!" if it's between 6:00 PM and 10:00 PM
+            return "Evenin!"; // Return "Evening!" if it's between 6:00 PM and 10:00 PM
         }
     }
+
 }
